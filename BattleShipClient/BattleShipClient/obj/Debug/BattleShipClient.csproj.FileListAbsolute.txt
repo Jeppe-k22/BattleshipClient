@@ -1,0 +1,10 @@
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\bin\Debug\BattleShipClient.exe.config
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\bin\Debug\BattleShipClient.exe
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\bin\Debug\BattleShipClient.pdb
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.csprojAssemblyReference.cache
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.Form1.resources
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.Properties.Resources.resources
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.csproj.GenerateResource.cache
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.csproj.CoreCompileInputs.cache
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.exe
+C:\Users\jeppe\Source\Repos\Jeppe-k22\BattleShip-Client\BattleShipClient\BattleShipClient\obj\Debug\BattleShipClient.pdb
