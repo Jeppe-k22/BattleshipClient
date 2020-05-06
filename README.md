@@ -1,0 +1,2 @@
+# BattleshipClient
+Klienten til Battleship
